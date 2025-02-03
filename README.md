@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhrumil-Desai
 - 👀 I’m interested in Mobile Application or Full stack developer.
-- 🌱 I’m currently learning C,C++,Java,HTML,COA.
+- 🌱 I’m currently learning C,C++,Java.
 - 📫 How to reach me: email:- dhrumild66@gmail.com
 
 
