@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhrumil-Desai
-- 👀 I’m interested in Mobile Application or single page website developer or BA.
-- 🌱 I’m currently learning Deep Database and Data sturcutre.
+- 👀 I’m interested in Mobile Application or Full stack developer.
+- - 🌱 I’m currently learning C,C++,Java.
 - 📫 How to reach me: email:- dhrumild66@gmail.com
 
 
